@@ -28,8 +28,6 @@ passion, as I enjoy building applications that make my everyday life easier and 
 
 #
 
-<br>
-
 ### 📚 Education
 
 <h4>Bachelors of Science Honours in Computer Science at Trent University</h4>
