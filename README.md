@@ -8,7 +8,7 @@ passion, as I enjoy building applications that make my everyday life easier and 
 
 ---
 
-### Languages & Tools
+### 🖥 Languages & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -28,7 +28,7 @@ passion, as I enjoy building applications that make my everyday life easier and 
 
 #
 
-### 📚 Education
+### 👨‍🎓 Education
 
 <h4>Bachelors of Science Honours in Computer Science at Trent University</h4>
 <h6> Sept 2018 - June 2022 </h6>
@@ -52,3 +52,5 @@ passion, as I enjoy building applications that make my everyday life easier and 
     <li>Utilize git commands to work effectively in teams (clone, branch, commit)</li>
     <li>Debug programs in Linux and UNIX using the GNU compiler</li>
   </ul>
+
+#
