@@ -24,9 +24,9 @@ passion, as I enjoy building applications that make my everyday life easier and 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
 
-<br>
+<br />
 
----
+#
 
 ### 📚 Education
 
