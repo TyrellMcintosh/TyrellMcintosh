@@ -28,7 +28,7 @@ passion, as I enjoy building applications that make my everyday life easier and 
 
 #
 
-### 👨‍🎓 Education
+### 👨🏾‍🎓 Education
 
 <h4>Bachelors of Science Honours in Computer Science at Trent University</h4>
 <h6> Sept 2018 - June 2022 </h6>
@@ -43,7 +43,7 @@ passion, as I enjoy building applications that make my everyday life easier and 
 
 #
 
-### 👨‍💻 Skills
+### 👨🏾‍💻 Skills
   <ul>
     <li>Design and implement data structures and algorithms</li>
     <li>Develop complex programs using Python in Visual Studio Code</li>
