@@ -49,7 +49,7 @@ passion, as I enjoy building applications that make my everyday life easier and 
     <li>Design and implement data structures and algorithms</li>
     <li>Develop complex programs using Python in Visual Studio Code</li>
     <li>Develop C programs in a UNIX environment while utilizing bash commands</li>
-    <li>Develop C# programs using ASP.NET in Visual Studio</li>
+    <li>Develop Windows Forms and Console Apps using C# in Visual Studio</li>
     <li>Implement databases using MySQL and C# or Python to formulate original queries</li>
     <li>Utilize git commands to work effectively in teams (clone, branch, commit)</li>
     <li>Debug programs in Linux and UNIX using the GNU compiler</li>
