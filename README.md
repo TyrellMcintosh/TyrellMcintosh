@@ -2,9 +2,8 @@
 
 **`Software Developer`**
 
-Hello, I am a well-rounded software developer who is proficient in utilizing Python and C# languages. Having just obtained a Bachelor's of Science Honours in Computer
-Science, I am actively searching for a fulfilling career in software development that will allow me to develop useful applications which will solve business problems in an efficient manner. I'm interested in a position that allows my current skillset to shine while also learning new skills on the job. In fact developing software is my 
-passion, as I enjoy building applications that make my everyday life easier and love the way technology has evolved over the years.
+Hello, I am a well-rounded software developer who is proficient in utilizing Python and C#/C++. Having just obtained a Bachelor's of Science Honours in Computer
+Science, I am actively searching for a fulfilling career in software development that will allow me to develop useful applications which will solve business problems in an efficient manner. I'm interested in a position that allows my current skillset to shine while also learning new skills on the job. In fact developing software is my passion, as I enjoy building applications that make my everyday life easier and love the way technology has evolved over the years.
 
 ---
 
