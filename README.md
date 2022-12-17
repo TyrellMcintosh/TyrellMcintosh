@@ -48,8 +48,8 @@ Hello, I am a well-rounded software developer who is proficient in utilizing C# 
   <ul>
     <li>Design and implement data structures and algorithms</li>
     <li>Develop complex programs using Python in Visual Studio Code</li>
-    <li>Implement databases using MySQL and C# or Python to formulate original queries</li>
-    <li>Utilize git commands to work effectively in teams (clone, branch, commit)</li>
+    <li>Implement databases using SQL Server/C# and MySQL/Python to formulate original queries</li>
+    <li>Utilize git to work effectively in teams (clone, branch, commit)</li>
     <li>Develop Windows Forms and Console Apps using C# in Visual Studio</li>
     <li>Debug programs in Linux and UNIX using the GNU compiler</li>
     <li>Develop C programs in a UNIX environment while utilizing bash commands</li>
