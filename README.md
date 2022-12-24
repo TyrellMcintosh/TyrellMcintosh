@@ -12,7 +12,6 @@ Hello, I am a well-rounded software developer who is proficient in utilizing C# 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
