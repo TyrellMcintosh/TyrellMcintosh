@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Hello, I am a well-rounded software developer who is proficient in utilizing C# and Python with a BSc in Computer Science. Currently, I'm a Junior Software Developer who is continously learning and growing in my career by developing applications that offer a solution to a business problem. I am passionate about developing software and I enjoy building applications in my spare time that make my everyday life easier.
+Hello, I am a well-rounded software developer who is proficient in utilizing C# and Python with a BSc in Computer Science. Currently, I'm a Junior Software Developer who is continuously learning and growing in my career by developing applications that offer a solution to a business problem. I am passionate about developing software and I enjoy building applications in my spare time that make my everyday life easier.
 
 ---
 
